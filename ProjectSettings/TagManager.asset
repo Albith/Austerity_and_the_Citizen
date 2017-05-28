@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - startText1
+  - startText2
+  - C_runWater
+  - e1_monitoringA
+  - C_bottledWater
+  - e1_monitoringB
+  - C_monitoringOff
+  - W_monitoringOff
+  - W_S_agencyCuts
+  - W_agencyCuts
+  - C_doctorVisit
+  - C_doctorVSignup
+  - C_doctorVEmg
+  - H_resourceShuffle
+  - startButtonText
+  - C_r_endingAH
+  - C_r_endingSD
+  - C_r_endingSH
+  - W_billIncrease
+  - W_rainClogged
+  - W_infrRepair
+  - W_serviceComplaint
+  - W_waterBrigade
+  - C_visitIgnore
+  - C_billAdjustment
+  - C_pharmacy
+  - C_shopping
+  - C_dentistVisit
+  - C_dentistVisitEmg
+  - C_droughtRisk
+  - C_shopOrDoctor
+  - C_reportIncidentDW
+  - C_reportIncidentBP
+  - C_reportIncidentWC
+  - H_facilitiesShuffle
+  - H_reformChange
+  - H_doctorIncentive
+  - H_preventiveZika
+  - H_preventiveInfluenza
+  - H_bloodDrive
+  - H_fundingResultH
+  - H_fundingResultM
+  - H_fundingResultL
+  - H_floodEmg
+  - H_payResidents
+  - H_zikaEmergency
+  - H_influenzaEpidemic
+  - H_addCDTshift
+  - H_removeCDTshift
+  - H_doctorPayComplaint
+  - H_cdtShift
+  - C_DirtyWater
+  - H_payComplaint2
+  - startWindow
+  - nextTurn
+  - C_doctorVPostpone
+  - W_rationDroughtW
+  - W_rationDroughtC
+  - W_droughtStart
+  - C_wBillOverdue
+  - C_hBillOverdue
+  - C_wPlanCutoff
+  - C_hPlanCutoff
+  - C_changeHPlan
+  - W_noticeDroughtW
+  - W_noticeDroughtC
+  - C_accessIncidentIntro
+  - med1
+  - med2
+  - med3
+  - C_doctorVisitFlu
+  - C_doctorVisitFall
+  - C_r_endingSS
+  - C_r_endingDH
+  - C_followupMeds
+  - C_followupLabs
+  - C_followupXrays
+  - C_hospitalization
+  - C_zikaDiagnosis
+  - C_hiBPdiagnosis
+  - C_fuMedsNoPay
+  - C_fuLabsOP
+  - C_fuLabsPartial
+  - C_fuAvoidTestsW
+  - C_hospOP
+  - C_hospPartial
+  - C_fuXraysPartial
+  - C_fuXraysOP
+  - C_fuMedsOP
+  - C_fuLabs_UOP
+  - C_hospNoPay
+  - incidentGroup
+  - waterTextGroup
+  - dispatchBckgd
+  - waterGraphicsGroup
+  - distressGroup
+  - beginGamePrompt
+  - personnelGroup
+  - W_heavyRainsMsg
+  - C_DVSignup_far
+  - C_DVSignup_mid
+  - C_DVSignup_close
+  - C_DVEmg_far
+  - C_DVEmg_mid
+  - C_DVEmg_close
+  - W_rationDrought
+  - incident
+  - infrRepairButton
+  - infrButtonText
+  - repairWarningText
+  - HresShuffle_Text
+  - H_intro
+  - C_intro
+  - W_intro
+  - tutorialScreen
+  - specialButton
+  - W_rationText
+  - gameSlider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
